@@ -12,7 +12,7 @@
 
 #### Preguntas de negocio
  - .1 Como es la relacion de género y número de transacciones
- - .2 Como es la distribución de edades por número de transacciones"
+ - .2 Como es la distribución de edades por número de transacciones
  - .3 ¿Qué grupo de edad gastó más dinero?
  - .4 Comprobar la distribución por edades entre hombres y mujeres
  - .5 Forma de pago y número de transacciones
